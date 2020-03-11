@@ -1,0 +1,88 @@
+/*
+My
+*/
+
+/*--------------------------------------------------------------
+# citations
+--------------------------------------------------------------*/
+
+#citation {
+  background: #ffff00;
+  background-size: cover;
+  padding: 40px 0;
+}
+
+
+#citation .citation-text {
+  color: #413e66;
+    font-style: italic;
+}
+
+#citation .citation-author {
+  color: #413e66;
+}
+
+
+/*--------------------------------------------------------------
+# citations
+--------------------------------------------------------------*/
+
+#download {
+  background: #ffff00;
+  background-size: cover;
+  padding: 40px 0;
+}
+
+#download h4 {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+#download h3 {
+  font-weight: 800;
+  font-size: 28px;
+}
+
+#download h2 {
+  font-weight: 600;
+  font-size: 52px;
+}
+
+
+/*--------------------------------------------------------------
+# citation-comment
+--------------------------------------------------------------*/
+
+#citation-comment {
+  background: #ffffff;
+  background-size: cover;
+  padding: 40px 0;
+}
+
+
+#citation-comment .citation-comment-text {
+  color: #413e66;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+
+
+/* AppFeatures Section
+--------------------------------*/
+
+#appfeatures {
+  padding: 80px 0;
+}
+
+#appfeatures h4 {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+#appfeatures h3 {
+  font-weight: 800;
+  font-size: 28px;
+}
+
+
